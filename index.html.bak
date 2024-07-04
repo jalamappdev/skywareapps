@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Dimension by HTML5 UP</title>
+		<title>Skyware Apps</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -19,9 +19,9 @@
 
 				<!-- Header -->
 					<header id="header">
-						<div class="logo">
-							<span class="icon fa-gem"></span>
-						</div>
+						<!-- <div class="logo">
+							<span class="icon fa-gem"></span> 
+						</div> -->
 						<div class="content">
 							<div class="inner">
 								<h1>Skyware Apps</h1>
@@ -50,7 +50,7 @@
 							<article id="intro">
 								<h2 class="major">About Us</h2>
 								<!-- <span class="image main"><img src="images/pic01.jpg" alt="" /></span> -->
-								<p>Skyware Applications Limited is dedicated to developing software that enhances business operations and improves user experiences. With a team of skilled developers and designers, we bring a wealth of expertise to every project, ensuring that our solutions are robust, scalable, and aligned with your business goals.</p>
+								<p>Skyware Apps is dedicated to developing software that enhances business operations and improves user experiences. With a team of skilled developers and designers, we bring a wealth of expertise to every project, ensuring that our solutions are robust, scalable, and aligned with your business goals.</p>
 								<p>Our services include:<ul>
 										<li><strong>Custom Software Development:</strong> Tailored solutions to streamline your business processes and enhance productivity.</li>
 										<li><strong>Mobile App Development:</strong> Engaging and intuitive mobile applications for both iOS and Android platforms.</li>
